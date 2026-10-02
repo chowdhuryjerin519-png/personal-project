@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "work": "Our Work",
+    "contact": "Contact",
+    "cta": "Get a Quote",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "guest": "Guest",
+    "categories": "Categories",
+    "shopAll": "Shop All",
+    "all": "All",
+    "menu": "Menu",
+    "cart": "Cart",
+    "search": "Search",
+    "account": "Account"
+  },
+
+  "hero": {
+    "badge": "Web Developer BD",
+
+    "titleStart": "We build",
+
+    "titleEnd": "We make your business modern, user-friendly, and ready to grow globally.",
+
+    "words": [
+      "E-commerce Websites",
+      "Business Websites",
+      "Online Stores",
+      "Custom Software"
+    ],
+
+    "subtitle": "From first idea to a site ranking on Google — we design, develop, and optimize every part of it, so your next customer finds you before they find your competitor.",
+
+    "ctaPrimary": "Start your project",
+
+    "ctaSecondary": "See how we work",
+
+    "badges": [
+      "E-commerce Website",
+      "SEO built in",
+      "Fast turnaround",
+      "24/7 support",
+      "Any type of website or software"
+    ],
+
+    "websiteUrl": "yourbusiness.com",
+    "googleRanking": "Google ranking",
+    "thisMonth": "#1 this month",
+    "newOrder": "New order",
+    "orderReceived": "42 received",
+    "seoScore": "SEO"
+  }
+}
